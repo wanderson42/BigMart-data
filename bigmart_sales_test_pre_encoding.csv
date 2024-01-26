@@ -1,4 +1,4 @@
-Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Size,Outlet_Location_Type,Outlet_Type,Outlet_Years,Item_Type_Combined
+Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifier,Outlet_Size,Outlet_Location_Type,Outlet_Type,Outlet_Years,Item_Reference
 20.75,Low_Fat,0.007564836,Snack_Foods,107.8622,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 8.3,Regular,0.038427677,Dairy,87.3198,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 14.6,Inedible,0.099574908,Others,241.7538,OUT010,A_Small,Tier_3,Grocery_Store,25,Non-Consumable
@@ -167,7 +167,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 17.75,Low_Fat,0.127140836,Baking_Goods,110.5544,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 20.85,Regular,0.061923154,Baking_Goods,87.5514,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 16.6,Low_Fat,0.122417514,Fruits_and_Vegetables,174.3738,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
-15.15,Low_Fat,0.032739698750000004,Baking_Goods,150.4708,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
+15.15,Low_Fat,0.03273969875,Baking_Goods,150.4708,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 5.46,Regular,0.053858378,Canned,186.924,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 9.5,Regular,0.048784266,Starchy_Foods,188.5898,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 13.5,Inedible,0.073080167,Household,161.492,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Non-Consumable
@@ -263,7 +263,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 15.1,Inedible,0.055926872,Household,141.4496,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Non-Consumable
 14.5,Regular,0.097597084,Snack_Foods,158.5262,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 18.1,Low_Fat,0.177107232,Dairy,157.5288,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
-20.25,Regular,0.013500438833333331,Canned,186.4924,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
+20.25,Regular,0.013500438833333335,Canned,186.4924,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 9.0,Inedible,0.019506654,Household,169.5474,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
 11.8,Inedible,0.022936556,Health_and_Hygiene,177.6686,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Non-Consumable
 20.25,Inedible,0.02610006,Household,182.8976,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Non-Consumable
@@ -288,7 +288,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 8.6,Regular,0.095395258,Breads,131.131,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 7.325,Low_Fat,0.093530571,Fruits_and_Vegetables,90.4146,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 12.1,Regular,0.061124626,Soft_Drinks,56.4614,OUT013,C_High,Tier_3,Supermarket_Type1,36,Drinks
-14.0,Regular,0.048634248,Snack_Foods,54.864,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
+14.0,Regular,0.048634248000000005,Snack_Foods,54.864,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
 12.85,Low_Fat,0.121624114,Snack_Foods,42.2428,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 7.535,Low_Fat,0.081719458,Soft_Drinks,118.444,OUT013,C_High,Tier_3,Supermarket_Type1,36,Drinks
 16.35,Inedible,0.01336643,Others,105.228,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
@@ -326,7 +326,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 9.3,Regular,0.014016743,Snack_Foods,196.8084,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 5.15,Regular,0.060880827,Meat,124.4388,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 17.7,Regular,0.068511767,Fruits_and_Vegetables,83.2276,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
-17.85,Low_Fat,0.05152867488888889,Snack_Foods,127.502,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
+17.85,Low_Fat,0.05152867488888888,Snack_Foods,127.502,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 8.935,Low_Fat,0.04017515,Frozen_Foods,54.1298,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 11.15,Low_Fat,0.120441348,Dairy,43.7744,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 20.25,Inedible,0.045440803,Household,179.5976,OUT019,A_Small,Tier_1,Grocery_Store,38,Non-Consumable
@@ -548,7 +548,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 9.195,Regular,0.117963418,Snack_Foods,161.1578,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 18.2,Low_Fat,0.08998548337500001,Fruits_and_Vegetables,195.411,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 18.85,Regular,0.138305372,Snack_Foods,251.1724,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
-14.85,Regular,0.021168989625000002,Dairy,261.691,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
+14.85,Regular,0.021168989625,Dairy,261.691,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 19.85,Regular,0.020994235,Snack_Foods,60.7194,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 6.13,Inedible,0.028297924,Household,107.1912,OUT013,C_High,Tier_3,Supermarket_Type1,36,Non-Consumable
 7.96,Low_Fat,0.049660306,Canned,163.4894,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
@@ -620,7 +620,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 12.35,Inedible,0.04153551,Health_and_Hygiene,32.8216,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
 16.7,Low_Fat,0.03863415,Dairy,109.4886,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 13.5,Low_Fat,0.035980572,Fruits_and_Vegetables,180.8976,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
-6.67,Regular,0.13506553837500002,Snack_Foods,86.5514,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
+6.67,Regular,0.135065538375,Snack_Foods,86.5514,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 12.35,Low_Fat,0.093485761,Snack_Foods,119.6124,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 8.895,Regular,0.137530409,Frozen_Foods,162.5236,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 17.5,Low_Fat,0.098056243,Soft_Drinks,175.7738,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Drinks
@@ -690,7 +690,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 14.3,Regular,0.049776901,Meat,211.7586,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 13.5,Inedible,0.092042001,Health_and_Hygiene,36.6874,OUT010,A_Small,Tier_3,Grocery_Store,25,Non-Consumable
 14.65,Inedible,0.071717648,Household,259.9594,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
-17.7,Regular,0.048252421499999996,Fruits_and_Vegetables,80.0276,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
+17.7,Regular,0.0482524215,Fruits_and_Vegetables,80.0276,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 17.0,Inedible,0.052315184,Health_and_Hygiene,122.773,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Non-Consumable
 20.1,Inedible,0.014961062,Health_and_Hygiene,141.5154,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Non-Consumable
 8.27,Regular,0.15679782,Snack_Foods,149.8708,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
@@ -884,7 +884,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 12.300000000000002,Low_Fat,0.036760791,Snack_Foods,116.9834,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 11.15,Low_Fat,0.05716456,Baking_Goods,103.8622,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 13.1,Low_Fat,0.037399255,Fruits_and_Vegetables,173.1054,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
-20.25,Regular,0.013500438833333331,Canned,185.7924,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
+20.25,Regular,0.013500438833333335,Canned,185.7924,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 15.0,Low_Fat,0.153243627,Starchy_Foods,109.1938,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 19.35,Regular,0.101626463,Fruits_and_Vegetables,237.4564,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 14.85,Low_Fat,0.163640988,Baking_Goods,144.2812,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
@@ -1229,7 +1229,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 20.35,Regular,0.151379828,Meat,80.1276,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 9.1,Inedible,0.079904068,Household,47.5718,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
 9.105,Inedible,0.038295533,Household,32.39,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
-10.695,Low_Fat,0.059028964999999996,Frozen_Foods,57.8904,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
+10.695,Low_Fat,0.059028965,Frozen_Foods,57.8904,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 10.85,Low_Fat,0.162494861,Snack_Foods,104.5622,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 9.17,Low_Fat,0.102480138,Baking_Goods,142.747,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 6.28,Low_Fat,0.048508058,Soft_Drinks,86.1198,OUT019,A_Small,Tier_1,Grocery_Store,38,Drinks
@@ -1371,7 +1371,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 7.725,Low_Fat,0.079978878,Canned,248.3092,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 9.3,Low_Fat,0.066783292,Frozen_Foods,183.0292,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
 5.94,Regular,0.029347924,Breads,188.4556,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
-6.055,Low_Fat,0.034477365,Fruits_and_Vegetables,160.1578,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
+6.055,Low_Fat,0.034477364999999996,Fruits_and_Vegetables,160.1578,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 14.0,Regular,0.07001509933333333,Frozen_Foods,155.6656,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 12.15,Low_Fat,0.018447852,Frozen_Foods,252.6698,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 12.0,Inedible,0.103725396,Health_and_Hygiene,261.7278,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
@@ -1652,7 +1652,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 14.75,Low_Fat,0.089827705,Snack_Foods,114.4518,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 19.7,Regular,0.030169768,Meat,103.799,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 18.6,Inedible,0.118848485,Others,55.3588,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Non-Consumable
-20.25,Regular,0.013500438833333331,Canned,184.6924,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
+20.25,Regular,0.013500438833333335,Canned,184.6924,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 6.215,Regular,0.049612318,Baking_Goods,224.1062,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 13.0,Inedible,0.083179333,Household,62.0194,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Non-Consumable
 11.5,Low_Fat,0.174497541,Fruits_and_Vegetables,128.8652,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
@@ -1796,7 +1796,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 12.85,Low_Fat,0.16763712,Frozen_Foods,45.506,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 10.3,Inedible,0.116932555,Health_and_Hygiene,155.463,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
 11.35,Regular,0.023417483,Dairy,185.1608,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
-8.355,Low_Fat,0.016410005000000002,Baking_Goods,93.5462,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
+8.355,Low_Fat,0.016410005,Baking_Goods,93.5462,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 5.26,Regular,0.026595897,Breads,96.3068,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
 16.7,Regular,0.062140968,Snack_Foods,60.8562,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 8.1,Regular,0.019849032,Canned,87.7198,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
@@ -1810,7 +1810,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 13.3,Regular,0.071563651,Fruits_and_Vegetables,59.9536,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 8.26,Regular,0.032284472,Soft_Drinks,123.973,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Drinks
 17.75,Low_Fat,0.055063016,Fruits_and_Vegetables,144.5444,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
-20.2,Regular,0.04548414388888889,Breakfast,157.363,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
+20.2,Regular,0.045484143888888884,Breakfast,157.363,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 8.905,Low_Fat,0.239568811,Frozen_Foods,60.4878,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 15.7,Regular,0.008746270714285714,Meat,205.798,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 8.615,Low_Fat,0.136954412625,Fruits_and_Vegetables,92.9436,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
@@ -1892,7 +1892,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 9.3,Low_Fat,0.111199491,Breads,64.0826,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 13.15,Low_Fat,0.043941955,Snack_Foods,182.295,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 20.75,Low_Fat,0.008269050625,Snack_Foods,105.9622,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
-18.75,Low_Fat,0.026415626,Dairy,99.3042,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Drinks
+18.75,Low_Fat,0.026415625999999998,Dairy,99.3042,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Drinks
 12.8,Low_Fat,0.133171307,Fruits_and_Vegetables,97.641,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 20.35,Low_Fat,0.089452302,Dairy,262.7594,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 5.785,Regular,0.053847216,Fruits_and_Vegetables,86.8856,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
@@ -1950,7 +1950,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 8.96,Regular,0.069002529375,Fruits_and_Vegetables,198.5768,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 9.105,Inedible,0.038474607,Household,34.89,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Non-Consumable
 10.8,Low_Fat,0.058422401,Hard_Drinks,75.238,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Drinks
-6.095,Inedible,0.088112876125,Others,142.5154,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Non-Consumable
+6.095,Inedible,0.08811287612499999,Others,142.5154,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Non-Consumable
 17.0,Low_Fat,0.055422895,Dairy,222.3114,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 12.65,Low_Fat,0.069424963,Meat,52.4324,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
 13.65,Regular,0.013027225,Fruits_and_Vegetables,116.7834,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
@@ -2099,7 +2099,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 8.88,Low_Fat,0.087272074,Hard_Drinks,151.9682,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Drinks
 9.0,Regular,0.050706432,Canned,150.9024,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 20.25,Inedible,0.025993608,Household,179.3976,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Non-Consumable
-5.765,Low_Fat,0.079114705875,Frozen_Foods,122.1098,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
+5.765,Low_Fat,0.07911470587500001,Frozen_Foods,122.1098,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 13.85,Low_Fat,0.030789262,Soft_Drinks,142.5154,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Drinks
 16.5,Low_Fat,0.028463,Snack_Foods,89.9146,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 17.5,Low_Fat,0.015560368,Fruits_and_Vegetables,185.6266,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
@@ -2790,7 +2790,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 14.0,Inedible,0.048310673,Health_and_Hygiene,128.431,OUT010,A_Small,Tier_3,Grocery_Store,25,Non-Consumable
 11.0,Inedible,0.05498157471428571,Health_and_Hygiene,100.6358,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Non-Consumable
 10.1,Low_Fat,0.024164336,Canned,117.715,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
-19.25,Regular,0.029381400999999998,Meat,196.211,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
+19.25,Regular,0.029381401,Meat,196.211,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 16.75,Low_Fat,0.021257124,Hard_Drinks,54.5298,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Drinks
 6.57,Low_Fat,0.065749633,Hard_Drinks,261.8278,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Drinks
 10.895,Low_Fat,0.064776303,Fruits_and_Vegetables,196.8794,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
@@ -2924,7 +2924,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 9.0,Low_Fat,0.065381597,Snack_Foods,177.137,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 19.75,Low_Fat,0.020835893,Fruits_and_Vegetables,187.9872,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 10.3,Low_Fat,0.07886623,Baking_Goods,177.937,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
-15.6,Low_Fat,0.029204416222222227,Snack_Foods,176.0054,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
+15.6,Low_Fat,0.02920441622222222,Snack_Foods,176.0054,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 16.1,Regular,0.160052329,Frozen_Foods,35.3558,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 9.3,Low_Fat,0.043853769,Hard_Drinks,191.9846,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Drinks
 9.695000000000002,Regular,0.083043068,Frozen_Foods,246.5144,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
@@ -3407,7 +3407,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 10.8,Low_Fat,0.052068722,Soft_Drinks,236.4564,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Drinks
 17.7,Regular,0.121852987,Meat,101.4674,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 9.27,Low_Fat,0.061735873,Dairy,150.805,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
-20.85,Low_Fat,0.043793365857142864,Meat,118.5808,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
+20.85,Low_Fat,0.04379336585714285,Meat,118.5808,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 12.6,Inedible,0.007456464,Household,188.6556,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
 8.895,Regular,0.088459496,Snack_Foods,124.873,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 18.2,Low_Fat,0.089466421,Fruits_and_Vegetables,196.011,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
@@ -3607,7 +3607,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 9.17,Low_Fat,0.103561308,Baking_Goods,144.147,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 11.8,Inedible,0.008561176,Health_and_Hygiene,115.8492,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
 12.85,Low_Fat,0.168452861,Frozen_Foods,46.606,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
-11.1,Low_Fat,0.1911871505,Baking_Goods,160.4604,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
+11.1,Low_Fat,0.19118715049999999,Baking_Goods,160.4604,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 8.51,Inedible,0.016110716,Household,193.1478,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
 13.5,Regular,0.160371305,Fruits_and_Vegetables,147.2102,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 19.5,Regular,0.077328827,Soft_Drinks,233.5958,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Drinks
@@ -3900,7 +3900,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 7.5200000000000005,Regular,0.077078963,Baking_Goods,184.695,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 10.395,Low_Fat,0.031401634,Seafood,160.3604,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 7.105,Inedible,0.044878428,Household,59.7562,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Non-Consumable
-9.195,Low_Fat,0.11218692357142857,Baking_Goods,45.6744,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
+9.195,Low_Fat,0.11218692357142858,Baking_Goods,45.6744,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 15.6,Low_Fat,0.117150348,Frozen_Foods,75.067,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 14.3,Regular,0.0655764,Fruits_and_Vegetables,86.1856,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 10.6,Regular,0.033239125,Breakfast,52.1008,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
@@ -3915,7 +3915,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 7.97,Regular,0.039956751,Meat,88.5514,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 6.135,Low_Fat,0.078906336,Soft_Drinks,112.386,OUT013,C_High,Tier_3,Supermarket_Type1,36,Drinks
 5.73,Low_Fat,0.051550615,Soft_Drinks,186.3898,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Drinks
-8.355,Low_Fat,0.016410005000000002,Baking_Goods,92.6462,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
+8.355,Low_Fat,0.016410005,Baking_Goods,92.6462,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 14.1,Low_Fat,0.087993901,Dairy,229.8668,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Drinks
 12.1,Low_Fat,0.040439161,Fruits_and_Vegetables,180.0002,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 13.65,Regular,0.031445152,Canned,101.17,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
@@ -4386,7 +4386,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 5.19,Low_Fat,0.042612828,Frozen_Foods,196.411,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 9.13,Inedible,0.051596351,Household,152.1024,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
 7.81,Regular,0.055180797,Canned,125.2046,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
-6.785,Regular,0.045557522249999996,Meat,43.4112,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
+6.785,Regular,0.04555752225,Meat,43.4112,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
 9.3,Regular,0.014007727,Snack_Foods,198.1084,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 18.1,Low_Fat,0.022490839,Fruits_and_Vegetables,96.0094,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 8.06,Low_Fat,0.021376678,Breakfast,229.3326,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Food
@@ -4625,7 +4625,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 8.18,Inedible,0.013150445,Household,140.6154,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Non-Consumable
 17.25,Regular,0.159062948,Fruits_and_Vegetables,60.2194,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 19.1,Low_Fat,0.038623716,Fruits_and_Vegetables,209.6586,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
-7.09,Low_Fat,0.007826063875,Baking_Goods,49.1034,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
+7.09,Low_Fat,0.007826063874999999,Baking_Goods,49.1034,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 20.5,Regular,0.111865695,Fruits_and_Vegetables,191.8478,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 7.17,Regular,0.060065869,Fruits_and_Vegetables,130.9968,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 5.485,Inedible,0.042993634,Health_and_Hygiene,167.3842,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Non-Consumable
@@ -4786,7 +4786,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 10.5,Regular,0.048304782,Dairy,47.8376,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 5.11,Inedible,0.034705807,Household,163.721,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
 11.3,Inedible,0.072989096625,Household,192.8478,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Non-Consumable
-9.895,Regular,0.052807374500000004,Frozen_Foods,261.8278,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
+9.895,Regular,0.0528073745,Frozen_Foods,261.8278,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 16.6,Inedible,0.016132205,Health_and_Hygiene,108.2596,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
 16.25,Low_Fat,0.025882559,Fruits_and_Vegetables,168.7474,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 6.89,Regular,0.136402598,Snack_Foods,191.882,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
@@ -4814,7 +4814,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 6.28,Low_Fat,0.046372661,Soft_Drinks,88.5198,OUT010,A_Small,Tier_3,Grocery_Store,25,Drinks
 10.85,Low_Fat,0.16145695,Snack_Foods,104.4622,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 8.76,Inedible,0.050052711,Health_and_Hygiene,128.4336,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
-15.15,Low_Fat,0.032739698750000004,Baking_Goods,149.3708,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
+15.15,Low_Fat,0.03273969875,Baking_Goods,149.3708,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 16.75,Regular,0.008583918,Meat,72.1038,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 9.1,Inedible,0.080226072,Household,45.7718,OUT013,C_High,Tier_3,Supermarket_Type1,36,Non-Consumable
 19.5,Regular,0.030545722,Canned,85.454,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
@@ -4827,7 +4827,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 10.5,Inedible,0.011333911,Household,236.8248,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Non-Consumable
 9.395,Inedible,0.040042881,Others,84.9908,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Non-Consumable
 18.85,Inedible,0.016173165,Health_and_Hygiene,131.1626,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Non-Consumable
-7.02,Low_Fat,0.054679380428571435,Dairy,82.325,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Drinks
+7.02,Low_Fat,0.05467938042857142,Dairy,82.325,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Drinks
 7.655,Low_Fat,0.032074998,Canned,114.5492,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 16.7,Regular,0.106583703,Baking_Goods,96.7384,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 20.25,Inedible,0.148536185,Household,235.9616,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Non-Consumable
@@ -4913,7 +4913,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 18.6,Low_Fat,0.039287423,Frozen_Foods,246.8802,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 14.85,Regular,0.053792758,Baking_Goods,121.0072,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 15.75,Low_Fat,0.141176075,Hard_Drinks,253.8382,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Drinks
-7.47,Regular,0.16859372899999997,Frozen_Foods,214.8218,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
+7.47,Regular,0.168593729,Frozen_Foods,214.8218,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
 12.5,Regular,0.081737302,Fruits_and_Vegetables,90.9488,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
 17.1,Inedible,0.067533904,Household,111.486,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Non-Consumable
 7.565,Inedible,0.09566912,Health_and_Hygiene,56.793,OUT019,A_Small,Tier_1,Grocery_Store,38,Non-Consumable
@@ -5089,7 +5089,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 12.85,Low_Fat,0.13750615,Snack_Foods,156.863,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 14.35,Inedible,0.029832699,Health_and_Hygiene,109.7228,OUT019,A_Small,Tier_1,Grocery_Store,38,Non-Consumable
 19.35,Low_Fat,0.026288547,Fruits_and_Vegetables,167.0474,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
-16.85,Regular,0.18522037100000002,Frozen_Foods,193.2478,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
+16.85,Regular,0.185220371,Frozen_Foods,193.2478,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Food
 20.0,Regular,0.051572555,Frozen_Foods,126.9678,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 12.15,Inedible,0.064606878,Others,253.604,OUT013,C_High,Tier_3,Supermarket_Type1,36,Non-Consumable
 7.68,Inedible,0.152556491,Health_and_Hygiene,85.1224,OUT046,A_Small,Tier_1,Supermarket_Type1,26,Non-Consumable
@@ -5323,7 +5323,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 14.65,Inedible,0.011135837,Others,56.8614,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Non-Consumable
 6.785,Regular,0.023104767,Snack_Foods,211.2928,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
 8.35,Regular,0.126845728,Frozen_Foods,74.0354,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Food
-10.895,Regular,0.010447039875,Dairy,124.873,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
+10.895,Regular,0.010447039875000001,Dairy,124.873,OUT027,B_Medium,Tier_3,Supermarket_Type3,38,Food
 9.8,Regular,0.072817026,Snack_Foods,119.2098,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 11.1,Low_Fat,0.04485815014285714,Snack_Foods,174.3054,OUT045,A_Small,Tier_2,Supermarket_Type1,21,Food
 7.645,Regular,0.111652253,Snack_Foods,44.2112,OUT010,A_Small,Tier_3,Grocery_Store,25,Food
@@ -5449,7 +5449,7 @@ Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Identifie
 10.5,Regular,0.093685838,Snack_Foods,212.4244,OUT013,C_High,Tier_3,Supermarket_Type1,36,Food
 20.25,Inedible,0.147905594,Household,233.1616,OUT035,A_Small,Tier_2,Supermarket_Type1,19,Non-Consumable
 14.65,Inedible,0.072360203,Household,260.4594,OUT018,B_Medium,Tier_3,Supermarket_Type2,14,Non-Consumable
-12.3,Low_Fat,0.12076180812500001,Baking_Goods,34.3874,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
+12.3,Low_Fat,0.120761808125,Baking_Goods,34.3874,OUT019,A_Small,Tier_1,Grocery_Store,38,Food
 7.72,Low_Fat,0.121709653,Fruits_and_Vegetables,121.344,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 15.3,Regular,0.084896979,Canned,214.7218,OUT049,B_Medium,Tier_1,Supermarket_Type1,24,Food
 6.63,Regular,0.104609971,Baking_Goods,168.35,OUT017,A_Small,Tier_2,Supermarket_Type1,16,Food
